@@ -3,7 +3,7 @@ import Button from './components/Button'
 
 
 function App() {
-  const colors = ['bg-green-500', 'bg-pink-500', 'bg-sky-500']
+  const colors = ['bg-green-500', 'bg-pink-500', 'bg-sky-500', 'bg-cyan-800', 'bg-red-700', 'bg-zinc-500', 'bg-slate-400']
   // const [color, setColor] = useState("olive")
   const [currentColor, setCurrentColor] = useState("bg-purple-400");
   
